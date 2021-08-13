@@ -20,8 +20,8 @@ content:
   - Gestão
   - Jurídico
   - Marketing
-  - Recursos Humanos
   - Projeto
+  - Recursos Humanos
   - Professora
   - Alumni
   

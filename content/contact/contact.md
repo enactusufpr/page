@@ -29,11 +29,23 @@ design:
   columns: '1'
 ---
 
-Entre em contato com nossa equipe 💛
+## Redes Sociais
 
-<i class="fab fa-instagram-square" ></i> [@enactusufpr](https://www.instagram.com/enactusufpr/)
+<i class="fab fa-instagram" ></i> [@enactusufpr](https://www.instagram.com/enactusufpr/)
 
+<i class="fab fa-facebook" ></i> [Enactus UFPR](https://www.facebook.com/ufprenactus)
+
+<br>
+
+## Contribua
+
+<i class="fas fa-hand-holding-usd"></i> PicPay: [@enactusufpr](https://picpay.me/enactusufpr)
+
+<br>
+
+## Instituição
 <i class="fas fa-university"></i> [Universidade Federal do Paraná](https://www.ufpr.br/portalufpr/)
 
 <br>
+
 

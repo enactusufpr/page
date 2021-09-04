@@ -18,7 +18,7 @@ design:
 
 <br>
 
-<i class="fas fa-university"></i> [Universidade Federal do Paraná](https://www.ufpr.br/portalufpr/) 
+🏛️ [Universidade Federal do Paraná](https://www.ufpr.br/portalufpr/) 
 
 📍 Campus Curitiba
 

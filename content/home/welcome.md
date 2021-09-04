@@ -18,4 +18,8 @@ design:
 
 <br>
 
-Transformando vidas por meio do empreendedorismo social 💛
+<i class="fas fa-university"></i> [Universidade Federal do Paraná](https://www.ufpr.br/portalufpr/) 
+
+📍 Campus Curitiba
+
+💛 Transformando vidas por meio do empreendedorismo social

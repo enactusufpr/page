@@ -28,12 +28,12 @@ image:
 projects: []
 ---
 
-O Dia Mundial da Limpeza é um movimento que ocorre em 180 países, reunindo milhões de voluntários com o objetivo de limpar as cidades, rios e praias. Em 2021, o movimento ocorre pela 4ª vez e conta com o apoio da Enactus UFPR - um time da Rede Enactus que visa incentivar jovens universitários a colaborarem para um mundo melhor.
+A Enactus UFPR está participando do Dia Mundial da Limpeza 2021, que acontecerá no dia **18 de setembro**. Você é nosso convidado para atuar na cidade de Curitiba! 
+
+O **Dia Mundial da Limpeza** é um movimento que ocorre em 180 países, reunindo milhões de voluntários com o objetivo de limpar as cidades, rios e praias. Em 2021, o movimento ocorre pela 4ª vez e conta com o apoio da Enactus UFPR - um time da Rede Enactus que visa incentivar jovens universitários a colaborarem para um mundo melhor.
 
 Por conta da pandemia do COVID-19, o Dia Mundial da Limpeza 2021 busca promover outros movimentos que podem ser aderidos por voluntários que não puderem estar presentes nos mutirões de limpeza. Acesse https://www.limpabrasil.org/diamundialdalimpeza/ e acompanhe a página da Enactus UFPR no Instagram para mais informações sobre limpeza digital, ambiental e mental.
 
-
-A Enactus UFPR está participando do Dia Mundial da Limpeza 2021, que acontecerá no dia 18 de setembro. Você é nosso convidado para atuar na cidade de Curitiba! Acompanhe nosso Instagram para mais informações...
 
 <i class="fab fa-instagram-square" ></i> [@enactusufpr](https://www.instagram.com/enactusufpr/)
 
